@@ -1,0 +1,19 @@
+{
+  "name": "openweathernodejs",
+  "version": "1.0.0",
+  "description": "this is whater app with cli UI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorooshMortazavi/OpenWeatherNodeJs.git"
+  },
+  "author": "soroosh mortazavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SorooshMortazavi/OpenWeatherNodeJs/issues"
+  },
+  "homepage": "https://github.com/SorooshMortazavi/OpenWeatherNodeJs#readme"
+}
