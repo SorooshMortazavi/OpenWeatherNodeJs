@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/SorooshMortazavi/OpenWeatherNodeJs/issues"
   },
-  "homepage": "https://github.com/SorooshMortazavi/OpenWeatherNodeJs#readme"
+  "homepage": "https://github.com/SorooshMortazavi/OpenWeatherNodeJs#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "node-fetch": "^2.6.0"
+  }
 }
