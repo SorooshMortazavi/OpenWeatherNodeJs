@@ -1,6 +1,7 @@
 const Weather = require('./WeatherApi');
 const chalk = require('chalk');
 // this used for get the third arg in the comand line.
+
 var command = process.argv[2];
 
 switch (command) {
