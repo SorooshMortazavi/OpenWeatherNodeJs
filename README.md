@@ -6,7 +6,9 @@ Environment.
 for example write in terminal:
 
 node app current isfahan
+
 node app forecast isfahan
 
 node app current london
+
 node app forecast london
